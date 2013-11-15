@@ -4,7 +4,7 @@
     <title>JavaMoney</title>
     <link>${config.site_host}</link>
     <atom:link href="${config.site_host}/feed.xml" rel="self" type="application/rss+xml" />
-    <description>JBake Bootstrap Template</description>
+    <description>Java Money and Currency</description>
     <language>en-gb</language>
     <pubDate>${published_date?string("EEE, d MMM yyyy HH:mm:ss Z")}</pubDate>
     <lastBuildDate>${published_date?string("EEE, d MMM yyyy HH:mm:ss Z")}</lastBuildDate>

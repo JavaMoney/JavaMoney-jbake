@@ -12,6 +12,7 @@
               <ul class="nav">
                 <li><a href="/index.html">Home</a></li>
                 <li><a href="about.html">About</a></li>
+                <li><a href="http://github.com/JavaMoney/">View on GitHub</a></li>
                 <li><a href="${config.feed_file}">Subscribe</a></li>
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Modules <b class="caret"></b></a>

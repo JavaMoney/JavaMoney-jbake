@@ -2,7 +2,7 @@ title=Second Post
 date=2013-08-25
 type=post
 tags=blog
-status=published
+status=draft
 ~~~~~~
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus.

@@ -2,7 +2,7 @@ title=Third Post
 date=2013-09-26
 type=post
 tags=blog, asciidoc
-status=published
+status=draft
 ~~~~~~
 = Third Post
 Jonathan Bullock
