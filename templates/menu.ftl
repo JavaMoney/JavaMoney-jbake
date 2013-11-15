@@ -18,7 +18,7 @@
                   <ul class="dropdown-menu">
                     <li><a href="ri.html">Moneta (RI)</a></li>
                     <li><a href="tck.html">TCK</a></li>
-                    <li><a href="modules/lib">Library</a></li>
+                    <li><a href="lib.html">Library</a></li>
                     <li class="divider"></li>
                     <li class="nav-header">Specification</li>
                     <li><a href="http://jcp.org/en/jsr/detail?id=354">JSR 354 Detail Page</a></li>
