@@ -3,18 +3,33 @@
 	<#include "menu.ftl">
 
 	<div class="page-header">
-		<h1>Blog</h1>
+	    <p/>
+	    <p/>
+		<h2>Welcome to JavaMoney - the Java Money and Currency API for the Java&trade; Platform as well as related projects and libraries</h2>
 	</div>
-	<#list posts as post>
-  		<#if (post.status == "published")>
-  			<a href="${post.uri}"><h1>${post.title}</h1></a>
-  			<p>${post.date?string("dd MMMM yyyy")}</p>
-  			<p>${post.body}</p>
-  		</#if>
-  	</#list>
 	
-	<hr />
+	    <section id="downloads" class="clearfix">
+			<img src="img/javamoney_cup.jpg"></td>
+	    </section>
 	
-	<p>Older posts are available in the <a href="/${config.archive_file}">archive</a>.</p>
+	    <section id="main_content">
+	        <h3>JSR 354 Specification (API)</h3>
+			<p>
+			 Find more details on the API/specification <a href="api.html">here</a>.
+			</p>
+			<h3>JSR 354 Reference Implementation (RI)</h3>
+			<p>
+			 Check out the referenceimplementation <a href="ri.html">here</a>.
+			</p>
+			<h3>Technical Compatibility Kit (TCK)</h3>
+			<p>
+			 Want to write your own implementation of JSR 354? The you should also checkout and configure the TCK. Start <a href="tck.html">here</a>.
+			</p>
+			<h3>JavaMoney Financial Library</h3>
+			<p>
+			 Find out more about the JavaMoney Financial Library <a href="lib.html">here</a>.
+			</p>
+		</section>
+	<hr/>
 
 <#include "footer.ftl">
