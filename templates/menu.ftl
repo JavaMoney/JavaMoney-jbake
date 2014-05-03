@@ -24,13 +24,14 @@
                     <li><a href="tck.html">TCK (Technical Compatibility Kit)</a></li>
                     <li class="divider"></li>
                     <li class="nav-header">JavaMoney</li>
-                    <li><a href="lib.html">JavaMoney Library</a></li>
+                    <li><a href="lib.html">Library</a></li>
+                     <li><a href="https://github.com/JavaMoney/javamoney-examples">Examples</a></li>
                     <li class="nav-header">Sandbox</li>
                     <li><a href="shelter.html">Shelter</a></li>
                     <li class="divider"></li>
                     <li class="nav-header">Additional Info and Links</li>
                     <li><a href="http://jcp.org/en/jsr/detail?id=354">JSR 354 Detail Page</a></li>
-                    <li><a href="https://javamoney.java.net/api/">JSR 354 Project on Java.net</a></li>
+                    <li><a href="http://javamoney.java.net">JSR 354 Project on Java.net</a></li>
                     <li><a href="blog.html">Events &amp; History</a></li></li>
                   </ul>
                 </li>
