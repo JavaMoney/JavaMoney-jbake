@@ -3,9 +3,16 @@ JavaMoney-template-bootstrap
 
 JavaMoney base template using Bootstrap and JBake
 
-to publish : jbake
+If you have [GIT_HOME]/[JavaMoney-template-bootstrap](https://github.com/JavaMoney/JavaMoney-template-bootstrap "JavaMoney-template-bootstrap") and [GIT_HOME]/[JavaMoney.github.io](https://github.com/JavaMoney/JavaMoney.github.io "JavaMoney.github.io") cloned, 
+to publish:  bake.bat
 
+to test:     taste.bat
 
-to test locally : jbake -s
+Generally
+---------
+
+to publish : jbake src/main/jbake [output folder]
+
+to test locally : jbake -s [output folder]
 
 See http://jbake.org/

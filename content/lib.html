@@ -1,5 +1,5 @@
 title=Library
-date=2013-11-24
+date=2015-02-02
 type=page
 status=published
 ~~~~~~
@@ -24,6 +24,7 @@ status=published
 <p>JavaMoney-lib is a financial library that is built upon JSR 354 (or compatible libraries). Whereas the JSR 354 API and reference implementation provides the fundamentals like monetary amounts, customizable currencies and interfaces for interoperation this library adds additional powerful APIs and SPIs that were implemented during JSR development as a proof of concept:</p>
 
 <ul>
+<!--
 <li>
 <strong>Currency Conversion</strong>, supporting multiple conversion data providers, direct and derived (chained) rates, current, as well as historic conversion. Also feed implementations from the European Central Bank (EZB) and the International Monetary Funds (IMF) were available, that support currency conversion back to 1995 for almost every ISO currency.</li>
 <li>
@@ -36,6 +37,7 @@ status=published
 <strong>Validity API</strong> This API provides a generic API for accessing historic validity information for arbitrary items, and for relationships between items. By default the API provides access to the historic relationship of currencies to countries using the Unicode CLDR data.</li>
 <li>
 <strong>common</strong> provides general functionality, such as an automatic data loader, which allows to update and locally cache arbitrary remote resources, and inform clients, if a new version of a resource was detected.</li>
+-->
 <li>
 <strong>calc</strong> finally provides a set of moentary calculations and formulas. The idea here is to provide a comprehensive set of algorithms and tools to perform complex financial mathematics. </li>
 <li>
@@ -43,7 +45,7 @@ status=published
 ** <strong>se</strong> loading SPIs only using the JDK <code>ServiceLoader</code>.
 ** <strong>se-cdi</strong> loading SPIs based on a Weld SE container.
 ** <strong>ee</strong> loading SPIs based on CDI in a Java EE environment &gt;= EE6.</li>
-</ul><p>To use the library you simply have to add the Maven dependency to your project (tbd)</p>
+</ul><p>To use the library you simply have to add the Maven dependency to your project.</p>
 
 <pre><code>&lt;dependency&gt;
   &lt;groupId&gt;org.javamoney&lt;/groupId&gt;
@@ -56,13 +58,7 @@ status=published
 The release artifacts should be accessible from the following repositories:
 <ul>
 <li>Maven Central</li>
-<li><a href="https://repository-jsr354.forge.cloudbees.com/release" target="_blank">https://repository-jsr354.forge.cloudbees.com/release</a></li>
-</ul>
-</p>
-<p>
-Snapshot artifacts should be accessible after successful builds from:
-<ul>
-<li><a href="https://repository-jsr354.forge.cloudbees.com/snapshot" target="_blank">https://repository-jsr354.forge.cloudbees.com/snapshot</a></li>
+<li>JCenter by Bintray</li>
 </ul>
 </p>
 
