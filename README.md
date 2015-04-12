@@ -8,6 +8,8 @@ to publish:  bake.bat
 
 to test:     taste.bat
 
+Requires JBake version 2.3 or above
+
 Generally
 ---------
 

@@ -1,2 +1,2 @@
 @echo off
-%JBAKE_HOME%\jbake . ..\JavaMoney.github.io
+%JBAKE_HOME%\bin\jbake . ..\JavaMoney.github.io

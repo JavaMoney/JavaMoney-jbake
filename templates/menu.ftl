@@ -10,7 +10,7 @@
             <a class="brand" href="/">JavaMoney</a>
             <div class="nav-collapse collapse">
               <ul class="nav">
-                <li><a href="/index.html">Home</a></li>
+                <li><a href="blog.html">Blog</a></li>
                 <li><a href="about.html">About</a></li>
                 <li><a href="http://github.com/JavaMoney/">View on GitHub</a></li>
                 <li><a href="${config.feed_file}">Subscribe</a></li>
@@ -32,7 +32,7 @@
                     <li class="nav-header">Additional Info and Links</li>
                     <li><a href="http://jcp.org/en/jsr/detail?id=354">JSR 354 Detail Page</a></li>
                     <li><a href="http://javamoney.java.net">JSR 354 Project on Java.net</a></li>
-                    <li><a href="blog.html">Blog (Events &amp; History)</a></li></li>
+                    <!-- <li><a href="blog.html">Blog (Events &amp; History)</a></li></li> -->
                   </ul>
                 </li>
               </ul>
