@@ -10,7 +10,7 @@
             <a class="brand" href="/">JavaMoney</a>
             <div class="nav-collapse collapse">
               <ul class="nav">
-                <li><a href="/blog.html">Blog</a></li>
+                <li><a href="/archive.html">Blog</a></li>
                 <li><a href="/about.html">About</a></li>
                 <li><a href="http://github.com/JavaMoney/">View on GitHub</a></li>
                 <li><a href="${config.feed_file}">Subscribe</a></li>
