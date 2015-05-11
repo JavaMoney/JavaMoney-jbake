@@ -15,7 +15,7 @@
                 <li><a href="http://github.com/JavaMoney/">View on GitHub</a></li>
                 <li><a href="${config.feed_file}">Subscribe</a></li>
                 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Modules <b class="caret"></b></a>
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Links <b class="caret"></b></a>
                   <ul class="dropdown-menu">
                     <li class="nav-header">JSR 354</li>
                     <li><a href="api.html">Specification (API)</a></li>
@@ -29,7 +29,7 @@
                     <li class="nav-header">Sandbox</li>
                     <li><a href="shelter.html">Shelter</a></li>
                     <li class="divider"></li>
-                    <li class="nav-header">Additional Info and Links</li>
+                    <li class="nav-header">Additional Information</li>
                     <li><a href="http://jcp.org/en/jsr/detail?id=354">JSR 354 Detail Page</a></li>
                     <li><a href="http://javamoney.java.net">JSR 354 Project on Java.net</a></li>
                     <!-- <li><a href="blog.html">Blog (Events &amp; History)</a></li></li> -->
