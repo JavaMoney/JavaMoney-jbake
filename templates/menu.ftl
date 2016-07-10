@@ -25,6 +25,7 @@
                     <li class="divider"></li>
                     <li class="nav-header">JavaMoney</li>
                     <li><a href="lib.html">Library</a></li>
+                    <li><a href="midas.html">Midas</a></li>
                      <li><a href="https://github.com/JavaMoney/javamoney-examples">Examples</a></li>
                     <li class="nav-header">Sandbox</li>
                     <li><a href="shelter.html">Shelter</a></li>
