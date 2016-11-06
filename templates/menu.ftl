@@ -18,6 +18,7 @@
                   <ul class="dropdown-menu">
                     <li class="nav-header">JSR 354</li>
                     <li><a href="api.html">Specification (API)</a></li>
+                    <li><a href="apidocs/">Specification (JavaDoc)</a></li>
                     <li class="divider"></li>
                     <li><a href="ri.html">Moneta Reference Implementation (RI)</a></li>
                     <li><a href="tck.html">Technical Compatibility Kit (TCK)</a></li>
