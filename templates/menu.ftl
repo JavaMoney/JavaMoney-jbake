@@ -34,8 +34,10 @@
                     <li class="divider"></li>
                     <li class="nav-header">Additional Information</li>
                     <li><a href="https://jcp.org/en/jsr/detail?id=354" target="_blank">JSR 354 Detail Page</a></li>
+                    <!-- 
                     <li><a href="https://javamoney.java.net" target="_blank">JSR 354 Project on Java.net</a></li>
-                    <!-- <li><a href="blog.html">Blog (Events &amp; History)</a></li></li> -->
+                    <li><a href="blog.html">Blog (Events &amp; History)</a></li></li>
+                     -->
                   </ul>
                 </li>
               </ul>
