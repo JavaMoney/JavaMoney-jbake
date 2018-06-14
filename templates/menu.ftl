@@ -31,13 +31,10 @@
                     <li><a href="https://github.com/JavaMoney/javamoney-examples" target="_blank">Examples</a></li>
                     <li><a href="shelter.html">Shelter</a></li>
                     <li><a href="http://jadira.sourceforge.net/usertype.extended/" target="_blank">Jadira Usertype Extended (Hibernate support)</a></li>
+                    <li><a href="https://github.com/zalando/jackson-datatype-money" target="_blank">Jackson Datatype Money by Zalando</a></li>
                     <li class="divider"></li>
                     <li class="nav-header">Additional Information</li>
                     <li><a href="https://jcp.org/en/jsr/detail?id=354" target="_blank">JSR 354 Detail Page</a></li>
-                    <!-- 
-                    <li><a href="https://javamoney.java.net" target="_blank">JSR 354 Project on Java.net</a></li>
-                    <li><a href="blog.html">Blog (Events &amp; History)</a></li></li>
-                     -->
                   </ul>
                 </li>
               </ul>
