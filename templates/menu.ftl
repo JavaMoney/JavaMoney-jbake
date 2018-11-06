@@ -35,6 +35,7 @@
                     <li class="divider"></li>
                     <li class="nav-header">Additional Information</li>
                     <li><a href="https://jcp.org/en/jsr/detail?id=354" target="_blank">JSR 354 Detail Page</a></li>
+                    <li><a href="https://groups.io/g/javamoney/" target="_blank">javamoney@groups.io</a></li>
                   </ul>
                 </li>
               </ul>
