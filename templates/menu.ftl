@@ -17,9 +17,9 @@
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Links <b class="caret"></b></a>
                   <ul class="dropdown-menu">
                     <li class="nav-header">JSR 354</li>
-                    <li><a href="api.html">Specification (API)</a></li>
-                    <li><a href="https://github.com/JavaMoney/jsr354-api-bp" target="_blank">Specification (API) - Backport to Java 7 (API BP)</a></li>
-                    <li><a href="apidocs/">Specification (JavaDoc)</a></li>
+                    <li><a href="api.html">API</a></li>
+                    <li><a href="https://github.com/JavaMoney/jsr354-api-bp" target="_blank">API - Backport to Java 7 (API BP)</a></li>
+                    <li><a href="apidocs/">API (JavaDoc)</a></li>
                     <li class="divider"></li>
                     <li><a href="ri.html">Moneta Reference Implementation (RI)</a></li>
                     <li><a href="https://github.com/JavaMoney/jsr354-ri-bp" target="_blank">Moneta Reference Implementation - Backport to Java 7 (RI BP)</a></li>
