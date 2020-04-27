@@ -26,7 +26,7 @@
     	        <li>Validity API, allowing to manage the validity of arbitrary data and relations related to time (history)</li>
     	    </ul>
 
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/ZE3SLcKKbPo" frameborder="0" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/heH08CROmb0" frameborder="0" allowfullscreen></iframe>
 
     		<p>
 	        <h3>JSR 354 Specification (API)</h3>

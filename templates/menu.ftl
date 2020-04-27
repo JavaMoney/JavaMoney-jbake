@@ -18,11 +18,9 @@
                   <ul class="dropdown-menu">
                     <li class="nav-header">JSR 354</li>
                     <li><a href="api.html">API</a></li>
-                    <li><a href="https://github.com/JavaMoney/jsr354-api-bp" target="_blank">API - Backport to Java 7 (API BP)</a></li>
-                    <li><a href="apidocs/">API (JavaDoc)</a></li>
+                     <li><a href="apidocs/">API (JavaDoc)</a></li>
                     <li class="divider"></li>
                     <li><a href="ri.html">Moneta Reference Implementation (RI)</a></li>
-                    <li><a href="https://github.com/JavaMoney/jsr354-ri-bp" target="_blank">Moneta Reference Implementation - Backport to Java 7 (RI BP)</a></li>
                     <li><a href="tck.html">Technical Compatibility Kit (TCK)</a></li>
                     <li class="divider"></li>
                     <li class="nav-header">JavaMoney</li>
@@ -36,6 +34,8 @@
                     <li class="nav-header">Additional Information</li>
                     <li><a href="https://jcp.org/en/jsr/detail?id=354" target="_blank">JSR 354 Detail Page</a></li>
                     <li><a href="https://groups.io/g/javamoney/" target="_blank">javamoney@groups.io</a></li>
+                    <li><a href="https://github.com/JavaMoney/jsr354-api-bp" target="_blank">API - Backport to Java 7 (API BP)</a></li>
+                    <li><a href="https://github.com/JavaMoney/jsr354-ri-bp" target="_blank">Moneta Reference Implementation - Backport to Java 7 (RI BP)</a></li>
                   </ul>
                 </li>
               </ul>
