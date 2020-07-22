@@ -21,7 +21,7 @@
                     <li><a href="apidocs/">API (JavaDoc)</a></li>
                     <li><a href="/ri.html">Moneta Reference Implementation (RI)</a></li>
                     <li><a href="/tck.html">Technical Compatibility Kit (TCK)</a></li>
-                    <li><a href="https://jcp.org/en/jsr/detail?id=354" target="_blank">JSR 354 Detail Page</a></li>
+                    <li><a href="https://jcp.org/en/jsr/detail?id=354" target="_blank">Detail Page</a></li>
                     <li class="divider"></li>
                     <li class="nav-header">JavaMoney</li>
                     <li><a href="/lib.html">Library</a></li>
