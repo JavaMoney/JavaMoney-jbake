@@ -1,7 +1,7 @@
-JavaMoney-template-bootstrap
+JavaMoney-jbake
 ============================
 
-Templates and content for [JavaMoney Web Site](http://javamoney.github.io) using [Bootstrap](http://getbootstrap.com) and [JBake](http://jbake.org/)
+[JBake](http://jbake.org/) source for [JavaMoney Web Site](http://javamoney.github.io) using [Bootstrap](http://getbootstrap.com).
 
 If you have `[GIT_HOME]`/[JavaMoney-template-bootstrap](https://github.com/JavaMoney/JavaMoney-template-bootstrap "JavaMoney-template-bootstrap") and `[GIT_HOME]`/[JavaMoney.github.io](https://github.com/JavaMoney/JavaMoney.github.io "JavaMoney.github.io") cloned, 
 to publish:
