@@ -3,7 +3,7 @@ JavaMoney-jbake
 
 [JBake](http://jbake.org/) source for [JavaMoney Web Site](http://javamoney.github.io) using [Bootstrap](http://getbootstrap.com).
 
-If you have `[GIT_HOME]`/[JavaMoney-template-bootstrap](https://github.com/JavaMoney/JavaMoney-template-bootstrap "JavaMoney-template-bootstrap") and `[GIT_HOME]`/[JavaMoney.github.io](https://github.com/JavaMoney/JavaMoney.github.io "JavaMoney.github.io") cloned, 
+If you have `[GIT_HOME]`/[JavaMoney-jbake](https://github.com/JavaMoney/JavaMoney-jbake "JavaMoney-jbake") and `[GIT_HOME]`/[JavaMoney.github.io](https://github.com/JavaMoney/JavaMoney.github.io "JavaMoney.github.io") cloned, 
 to publish:
 
     bake.bat
@@ -25,6 +25,6 @@ to test locally:
 
     jbake -s [output folder]
 
-See [Getting Started](http://jbake.org/docs/2.3.2/#getting_started) in the JBake documentation for more information.
+See [Quickstart Guide](https://jbake.org/docs/2.6.7/#quickstart_guide) in the JBake documentation for more information.
 
 
